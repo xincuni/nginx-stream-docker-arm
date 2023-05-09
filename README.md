@@ -5,7 +5,7 @@ This repository contains **Dockerfile** of Nginx Stream
 
 ### Base Docker Image
 
-* [debian](https://hub.docker.com/_/debian/)
+* Centos7
 
 
 ### Installation
